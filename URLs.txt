@@ -1,7 +1,10 @@
-﻿https://digitaldefynd.com/best-free-python-tutorials/
+https://digitaldefynd.com/best-free-python-tutorials/
 
 
 https://www.udemy.com/cart/subscribe/course/1608024/
 
 Curso Aprenda Python 3 em 6 horas
+
+API em Python:
+https://www.youtube.com/watch?v=fucTMDRKYQ8
 
